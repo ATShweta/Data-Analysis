@@ -10,3 +10,5 @@ The goal is to perform exploratory data analysis (EDA) to uncover patterns, tren
 - Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
 - Visualization: Present insights through bar charts, line plots, and heatmaps.
 - Recommendations: Provide actionable recommendations based on the EDA.
+
+> Dataset taken from Kaggle - https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
